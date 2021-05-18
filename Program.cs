@@ -19,10 +19,13 @@ namespace Secao8
              * 
              * Repositorio Git
              * 
+             * git clean -df git checkout -- .
+             * 
              * 
              */
 
             Console.WriteLine("Ola Mundo");
+            Console.WriteLine("Bom dia hoje");
             Console.ReadLine();
         }
     }
