@@ -15,9 +15,15 @@ namespace Secao8
              * Linus Torvalds 2005
              * maior liberdade para trabalho em equipe
              * instalar o Git
-             * terminald de comando 
+             * terminald de comando
+             * 
+             * Repositorio Git
+             * 
              * 
              */
+
+            Console.WriteLine("Ola Mundo");
+            Console.ReadLine();
         }
     }
 }

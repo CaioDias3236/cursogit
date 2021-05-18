@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Secao8\Secao8\bin\Debug\Secao8.exe.config
+C:\Users\DELL\source\repos\Secao8\Secao8\bin\Debug\Secao8.exe
+C:\Users\DELL\source\repos\Secao8\Secao8\bin\Debug\Secao8.pdb
+C:\Users\DELL\source\repos\Secao8\Secao8\obj\Debug\Secao8.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Secao8\Secao8\obj\Debug\Secao8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Secao8\Secao8\obj\Debug\Secao8.exe
+C:\Users\DELL\source\repos\Secao8\Secao8\obj\Debug\Secao8.pdb
